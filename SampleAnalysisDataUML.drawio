@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T12:04:01.430Z" agent="5.0 (X11)" etag="hJ_FaG90osD8k0uyib1c" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T12:09:19.513Z" agent="5.0 (X11)" etag="eCgqQanPxatA-9s_NjG0" version="20.5.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -110,10 +110,13 @@
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VlqKPwMzISfh-G7G20yR-1" value="Cymon added this nice box (add content, 2 save)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="340" width="380" height="190" as="geometry" />
+          <mxGeometry x="340" y="290" width="380" height="190" as="geometry" />
         </mxCell>
         <mxCell id="YPw73TuoaFRIS15wGU0_-1" value="Cymons Circle" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="620" width="370" height="200" as="geometry" />
+          <mxGeometry y="250" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YPw73TuoaFRIS15wGU0_-2" value="OK, so how do we start?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="310" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
