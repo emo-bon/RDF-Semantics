@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T12:19:43.862Z" agent="5.0 (X11)" etag="QMcK0B013sZqjygSTeLs" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-12T12:53:51.977Z" agent="5.0 (X11)" etag="N2oXLeS4sOcuwE66EeSd" version="20.6.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2252" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="4755" dy="2715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,9 +175,6 @@
         <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="YioqlZahBlqbpIZByJ6U-40" target="xBN3VE51quYqp7De7y-h-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-45" value="&lt;h3 style=&quot;margin-top:0px;margin-bottom:0px&quot;&gt;GOOS-Panel-Biogeochemistry-01-EOV-Oxygen&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-930" y="340" width="350" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-47" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-520" y="-380" width="310" height="540" as="geometry" />
         </mxCell>
@@ -235,8 +232,11 @@
         <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-24" source="5s-W_Jw4NNXJwYLjPPVQ-25" target="5s-W_Jw4NNXJwYLjPPVQ-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-48" value="Dissolved Organic Carbon" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-890" y="-380" width="310" height="100" as="geometry" />
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-108" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-520" y="180" width="310" height="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-48" value="Dissolved Organic Carbon" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-108">
+          <mxGeometry width="310" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-49" value="+ Water Column&#xa;+ ?&#xa;+ Recommended&#xa;+ GOOS-Panel-Biogeochemistry-08-EOV" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-48">
           <mxGeometry y="30" width="310" height="60" as="geometry" />
@@ -247,8 +247,8 @@
         <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-48" source="5s-W_Jw4NNXJwYLjPPVQ-49" target="5s-W_Jw4NNXJwYLjPPVQ-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-52" value="Inorganic Carbon" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-890" y="-270" width="310" height="100" as="geometry" />
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-52" value="Inorganic Carbon" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-108">
+          <mxGeometry y="110" width="310" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-53" value="+ Water Column&#xa;+ ?&#xa;+ Recommended&#xa;+ GOOS-Panel-Biogeochemistry-03-EOV" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-52">
           <mxGeometry y="30" width="310" height="60" as="geometry" />
@@ -259,8 +259,8 @@
         <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-52" source="5s-W_Jw4NNXJwYLjPPVQ-53" target="5s-W_Jw4NNXJwYLjPPVQ-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-57" value="Nutrients Concentration" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-890" y="-160" width="310" height="100" as="geometry" />
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-57" value="Nutrients Concentration" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-108">
+          <mxGeometry y="220" width="310" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-58" value="+ Water Column&#xa;+ ?&#xa;+ Recommended&#xa;+ GOOS-Panel-Biogeochemistry-02-EOV" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-57">
           <mxGeometry y="30" width="310" height="60" as="geometry" />
@@ -271,8 +271,8 @@
         <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-57" source="5s-W_Jw4NNXJwYLjPPVQ-58" target="5s-W_Jw4NNXJwYLjPPVQ-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-63" value="Nitrous Oxide Concentration" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-890" y="-50" width="310" height="100" as="geometry" />
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-63" value="Nitrous Oxide Concentration" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-108">
+          <mxGeometry y="330" width="310" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-64" value="+ Water Column&#xa;+ ?&#xa;+ Recommended&#xa;+ GOOS-Panel-Biogeochemistry-06-EOV" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-63">
           <mxGeometry y="30" width="310" height="60" as="geometry" />
@@ -283,16 +283,424 @@
         <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-63" source="5s-W_Jw4NNXJwYLjPPVQ-64" target="5s-W_Jw4NNXJwYLjPPVQ-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-67" value="Nitrous Oxide Concentration" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-890" y="60" width="310" height="100" as="geometry" />
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-67" value="Oxygen Concentration" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-108">
+          <mxGeometry y="440" width="310" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-68" value="+ Water Column&#xa;+ ?&#xa;+ Recommended&#xa;+ GOOS-Panel-Biogeochemistry-06-EOV" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-67">
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-68" value="+ Water Column&#xa;+ ?&#xa;+ Recommended&#xa;+ GOOS-Panel-Biogeochemistry-01-EOV" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-67">
           <mxGeometry y="30" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-69" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-67">
           <mxGeometry y="90" width="310" height="10" as="geometry" />
         </mxCell>
         <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-67" source="5s-W_Jw4NNXJwYLjPPVQ-68" target="5s-W_Jw4NNXJwYLjPPVQ-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-71" value="Particulate Matter" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-108">
+          <mxGeometry y="550" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-72" value="+ Water Column&#xa;+ ?&#xa;+ Recommended&#xa;+ GOOS-Panel-Biogeochemistry-05-EOV" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-71">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-73" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-71">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-71" source="5s-W_Jw4NNXJwYLjPPVQ-72" target="5s-W_Jw4NNXJwYLjPPVQ-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-75" value="pH" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-108">
+          <mxGeometry y="660" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-76" value="+ Water Column&#xa;+ ?&#xa;+ Recommended&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-75">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-77" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-75">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-75" source="5s-W_Jw4NNXJwYLjPPVQ-76" target="5s-W_Jw4NNXJwYLjPPVQ-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-79" value="Bacterial Abundance and Biomass" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-108">
+          <mxGeometry y="770" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-80" value="+ Water Column&#xa;+ ?&#xa;+ Recommended&#xa;+ GOOS Emerging" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-79">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-81" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-79">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-79" source="5s-W_Jw4NNXJwYLjPPVQ-80" target="5s-W_Jw4NNXJwYLjPPVQ-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-83" value="Other Picoplankton Abundance and Biomass" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-108">
+          <mxGeometry y="880" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-84" value="+ Water Column&#xa;+ ?&#xa;+ Recommended&#xa;+ GOOS-Panel-BioEco-EOV-Phytoplankton" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-83">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-85" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-83">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-83" source="5s-W_Jw4NNXJwYLjPPVQ-84" target="5s-W_Jw4NNXJwYLjPPVQ-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-87" value="Nanoplankton Abundance and Biomass" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-108">
+          <mxGeometry y="990" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-88" value="+ Water Column&#xa;+ ?&#xa;+ Recommended&#xa;+ GOOS-Panel-BioEco-EOV-Phytoplankton" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-87">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-89" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-87">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-87" source="5s-W_Jw4NNXJwYLjPPVQ-88" target="5s-W_Jw4NNXJwYLjPPVQ-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-91" value="Microplankton Abundance and Biomass" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-108">
+          <mxGeometry y="1100" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-92" value="+ Water Column&#xa;+ ?&#xa;+ Recommended&#xa;+ GOOS-Panel-BioEco-EOV-Phytoplankton" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-91">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-93" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-91">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-91" source="5s-W_Jw4NNXJwYLjPPVQ-92" target="5s-W_Jw4NNXJwYLjPPVQ-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-95" value="Mesoplankton Abundance and Biomass" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-108">
+          <mxGeometry y="1210" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-96" value="+ Water Column&#xa;+ ?&#xa;+ Recommended&#xa;+ GOOS-Panel-BioEco-EOV-Phytoplankton" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-95">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-97" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-95">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-95" source="5s-W_Jw4NNXJwYLjPPVQ-96" target="5s-W_Jw4NNXJwYLjPPVQ-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-99" value="Macroplankton Abundance and Biomass" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-108">
+          <mxGeometry y="1320" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-100" value="+ Water Column&#xa;+ ?&#xa;+ Recommended&#xa;+ GOOS-Panel-BioEco-EOV-Phytoplankton" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-99">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-101" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-99">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-99" source="5s-W_Jw4NNXJwYLjPPVQ-100" target="5s-W_Jw4NNXJwYLjPPVQ-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-103" value="Primary Productivity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-108">
+          <mxGeometry y="1430" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-104" value="+ Water Column&#xa;+ ?&#xa;+ Recommended&#xa;+ ?" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-103">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-105" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-103">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-103" source="5s-W_Jw4NNXJwYLjPPVQ-104" target="5s-W_Jw4NNXJwYLjPPVQ-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-126" value="Sediment (So)" style="whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="-480" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-127" value="Water Column (Wa)" style="whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="-480" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-132" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-950" y="-380" width="310" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-109" value="Sediment Temperature at the top 0-5cm" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-132">
+          <mxGeometry width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-110" value="+ Sediment&#xa;+ Degrees C&#xa;+ Mandatory&#xa;+ None&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-109">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-111" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-109">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-109" source="5s-W_Jw4NNXJwYLjPPVQ-110" target="5s-W_Jw4NNXJwYLjPPVQ-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-113" value="Sea Surface Temperature" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-132">
+          <mxGeometry y="110" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-114" value="+ Sediment&#xa;+ Degrees C&#xa;+ Mandatory&#xa;+ GOOS-Panel-Physics-EOV-SeaSurfaceTemperature&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-113">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-115" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-113">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-113" source="5s-W_Jw4NNXJwYLjPPVQ-114" target="5s-W_Jw4NNXJwYLjPPVQ-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-122" value="pH" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-132">
+          <mxGeometry y="220" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-123" value="+ Sediment&#xa;+ ?&#xa;+ Mandatory&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-122">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-124" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-122">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-122" source="5s-W_Jw4NNXJwYLjPPVQ-123" target="5s-W_Jw4NNXJwYLjPPVQ-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-128" value="Redox Potential (Eh)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-132">
+          <mxGeometry y="330" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-129" value="+ Sediment&#xa;+ ?&#xa;+ Mandatory&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-128">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-130" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-128">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-128" source="5s-W_Jw4NNXJwYLjPPVQ-129" target="5s-W_Jw4NNXJwYLjPPVQ-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-182" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-950" y="60" width="310" height="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-133" value="Sediment Granulometry (median grain size)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-182">
+          <mxGeometry width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-134" value="+ Sediment&#xa;+ ?&#xa;+ Recommended&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-133">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-135" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-133">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-133" source="5s-W_Jw4NNXJwYLjPPVQ-134" target="5s-W_Jw4NNXJwYLjPPVQ-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-138" value="Sediment Granulometry (percentage content)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-182">
+          <mxGeometry y="110" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-139" value="+ Sediment&#xa;+ ?&#xa;+ Recommended&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-138">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-140" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-138">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-138" source="5s-W_Jw4NNXJwYLjPPVQ-139" target="5s-W_Jw4NNXJwYLjPPVQ-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-142" value="Porosity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-182">
+          <mxGeometry y="220" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-143" value="+ Sediment&#xa;+ ?&#xa;+ Recommended&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-142">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-144" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-142">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-142" source="5s-W_Jw4NNXJwYLjPPVQ-143" target="5s-W_Jw4NNXJwYLjPPVQ-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-146" value="Wet Bull Density" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-182">
+          <mxGeometry y="328" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-147" value="+ Sediment&#xa;+ ?&#xa;+ Recommended&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-146">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-148" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-146">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-146" source="5s-W_Jw4NNXJwYLjPPVQ-147" target="5s-W_Jw4NNXJwYLjPPVQ-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-150" value="Dry Weight" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-182">
+          <mxGeometry y="440" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-151" value="+ Sediment&#xa;+ ?&#xa;+ Recommended&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-150">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-152" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-150">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-150" source="5s-W_Jw4NNXJwYLjPPVQ-151" target="5s-W_Jw4NNXJwYLjPPVQ-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-154" value="Oxygen Concentration" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-182">
+          <mxGeometry y="550" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-155" value="+ Sediment&#xa;+ ?&#xa;+ Recommended&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-154">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-156" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-154">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-154" source="5s-W_Jw4NNXJwYLjPPVQ-155" target="5s-W_Jw4NNXJwYLjPPVQ-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-158" value="Sulphide Concentration" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-182">
+          <mxGeometry y="660" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-159" value="+ Sediment&#xa;+ ?&#xa;+ Recommended&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-158">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-160" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-158">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-158" source="5s-W_Jw4NNXJwYLjPPVQ-159" target="5s-W_Jw4NNXJwYLjPPVQ-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-162" value="Sulphate Concentration" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-182">
+          <mxGeometry y="770" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-163" value="+ Sediment&#xa;+ ?&#xa;+ Recommended&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-162">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-164" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-162">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-162" source="5s-W_Jw4NNXJwYLjPPVQ-163" target="5s-W_Jw4NNXJwYLjPPVQ-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-166" value="Organic Matter Content" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-182">
+          <mxGeometry y="880" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-167" value="+ Sediment&#xa;+ ?&#xa;+ Recommended&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-166">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-168" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-166">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-166" source="5s-W_Jw4NNXJwYLjPPVQ-167" target="5s-W_Jw4NNXJwYLjPPVQ-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-170" value="Chlorophyll-A Concentration" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-182">
+          <mxGeometry y="990" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-171" value="+ Sediment&#xa;+ ?&#xa;+ Recommended&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-170">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-172" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-170">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-170" source="5s-W_Jw4NNXJwYLjPPVQ-171" target="5s-W_Jw4NNXJwYLjPPVQ-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-174" value="Bacterial Abundance and Biomass" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-182">
+          <mxGeometry y="1100" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-175" value="+ Sediment&#xa;+ ?&#xa;+ Recommended&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-174">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-176" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-174">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-174" source="5s-W_Jw4NNXJwYLjPPVQ-175" target="5s-W_Jw4NNXJwYLjPPVQ-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-178" value="Phytobenthos Abundance and Biomass" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-182">
+          <mxGeometry y="1210" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-179" value="+ Sediment&#xa;+ ?&#xa;+ Recommended&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-178">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-180" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-178">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-178" source="5s-W_Jw4NNXJwYLjPPVQ-179" target="5s-W_Jw4NNXJwYLjPPVQ-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-183" value="Hard Substrates (Ha)" style="whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1300" y="-480" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-212" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1360" y="-380" width="310" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-184" value="Sea Surface Temperature" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-212">
+          <mxGeometry width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-185" value="+ Hard Substrates&#xa;+ Degrees C&#xa;+ Mandatory&#xa;+ GOOS-Panel-Physics-EOV-SeaSurfaceTemperature&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-184">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-186" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-184">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-184" source="5s-W_Jw4NNXJwYLjPPVQ-185" target="5s-W_Jw4NNXJwYLjPPVQ-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-196" value="Subsurface Temperature" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-212">
+          <mxGeometry y="110" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-197" value="+ Hard Substrates&#xa;+ Degrees C&#xa;+ Mandatory&#xa;+ GOOS-Panel-Physics-EOV-SubSurfaceTemperature&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-196">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-198" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-196">
+          <mxGeometry y="90" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-199" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-196">
+          <mxGeometry y="150" width="310" height="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-196" source="5s-W_Jw4NNXJwYLjPPVQ-197" target="5s-W_Jw4NNXJwYLjPPVQ-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-205" value="Subsurface Salinity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-212">
+          <mxGeometry y="330" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-206" value="+ Hard Substrates&#xa;+ ?&#xa;+ Mandatory&#xa;+ GOOS-Panel-Physics-EOV-SubSurfaceSalinity" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-205">
+          <mxGeometry y="30" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-205" source="5s-W_Jw4NNXJwYLjPPVQ-206" target="5s-W_Jw4NNXJwYLjPPVQ-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-202" value="Sea Surface Salinity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-212">
+          <mxGeometry y="220" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-203" value="+ Hard Substrates&#xa;+ ?&#xa;+ Mandatory&#xa;+ GOOS-Panel-Physics-EOV-SeaSurfaceSalinity" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-202">
+          <mxGeometry y="30" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-202" source="5s-W_Jw4NNXJwYLjPPVQ-203" target="5s-W_Jw4NNXJwYLjPPVQ-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-209" value="Images of the ARMS Plates" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-212">
+          <mxGeometry y="440" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-210" value="+ Hard Substrates&#xa;+ ?&#xa;+ Mandatory&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-209">
+          <mxGeometry y="30" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-209" source="5s-W_Jw4NNXJwYLjPPVQ-210" target="5s-W_Jw4NNXJwYLjPPVQ-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-213" value="Specimen Images" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="170" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-214" value="+ Hard Substrates&#xa;+ ?&#xa;+ Recommended&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-213">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-215" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-213">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-213" source="5s-W_Jw4NNXJwYLjPPVQ-214" target="5s-W_Jw4NNXJwYLjPPVQ-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-217" value="Habitat Images" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="280" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-218" value="+ Hard Substrates&#xa;+ ?&#xa;+ Recommended&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-217">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-219" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-217">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-217" source="5s-W_Jw4NNXJwYLjPPVQ-218" target="5s-W_Jw4NNXJwYLjPPVQ-218">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-222" value="Sampling Event Images" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="388" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-223" value="+ Hard Substrates&#xa;+ ?&#xa;+ Recommended&#xa;+ None" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-222">
+          <mxGeometry y="30" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-224" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5s-W_Jw4NNXJwYLjPPVQ-222">
+          <mxGeometry y="90" width="310" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5s-W_Jw4NNXJwYLjPPVQ-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="5s-W_Jw4NNXJwYLjPPVQ-222" source="5s-W_Jw4NNXJwYLjPPVQ-223" target="5s-W_Jw4NNXJwYLjPPVQ-223">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
